@@ -1,4 +1,4 @@
 # DemoSDLC
 Demo of SDLC
 <br>
-Author - Utkarsh Ranjan
+Author - Utkarsh Ranjan Apna College
